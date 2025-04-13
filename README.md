@@ -1,2 +1,1 @@
-# my-first-portfolio
-A portfolio is a systematic collection of student work that represents student activities, accomplishments, and achievements over a specific period of time in one or more areas of the curriculum.
+![Preview Img](files/preview.png)
